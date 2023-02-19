@@ -39,6 +39,7 @@
   "scripts": {
     "build": "webpack --mode production",
     "build-dev": "webpack --mode development",
-    "dev": "webpack-dev-server --hot --https"
+    "dev": "webpack-dev-server --hot --https",
+      "start": "yarn server.js"
   }
 }
